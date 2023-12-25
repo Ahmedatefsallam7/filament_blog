@@ -1,66 +1,42 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+##Laravel Filament Blog
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+#Laravel Filament Blog is a simple web application built with Laravel and Filament, livewire, allowing content authors to create posts, users to make comments on posts, and visitors to view posts and comments.
 
-## About Laravel
+##Features
+Post Management: Content authors can create, edit, and delete posts.
+Comment System: Users can add comments to posts.
+View Posts: Visitors can browse through posts and read comments.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+##Installation
+1-Clone the repository:git clone https://github.com/Ahmedatefsallam7/filament_blog
+2-Navigate to the project directory: cd filament-blog
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+##Usage
 
-## Learning Laravel
+#Content Authors
+1- Log in with your credentials.
+2-Navigate to the "Posts" section in the Filament dashboard.
+3-Create, edit, or delete posts as needed.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+#Users
+1- Register for an account or log in if you already have one.
+2-Navigate to a post and add comments.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+#Visitors
+1- Explore the website to view posts and comments.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+![Screenshot 2023-12-25 225702](https://github.com/Ahmedatefsallam7/filament_blog/assets/111317503/63eab59b-660e-4a9c-ba73-ed13569d9e2e)
 
-## Laravel Sponsors
+![Screenshot 2023-12-25 225645](https://github.com/Ahmedatefsallam7/filament_blog/assets/111317503/d9f6bf43-02f5-43d5-b3a0-133bf7a51327)
+![Screenshot 2023-12-25 225721](https://github.com/Ahmedatefsallam7/filament_blog/assets/111317503/f7973ca3-742e-4e21-bb79-3a72eb9c5dbf)
+![Screenshot 2023-12-25 225739](https://github.com/Ahmedatefsallam7/filament_blog/assets/111317503/233fe04f-9bdb-4ddd-bfec-5c44eb621b0d)
+![Screenshot 2023-12-25 225931](https://github.com/Ahmedatefsallam7/filament_blog/assets/111317503/b85e5678-4c25-4c7b-88ff-704e8d61d78b)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+![Screenshot 2023-12-25 230004](https://github.com/Ahmedatefsallam7/filament_blog/assets/111317503/37147226-189d-444f-a343-2ec434297495)
+![Screenshot 2023-12-25 230044](https://github.com/Ahmedatefsallam7/filament_blog/assets/111317503/e0f82e6e-008b-4a85-9dfb-8a32ff683ba9)
 
-### Premium Partners
+![Screenshot 2023-12-25 230028](https://github.com/Ahmedatefsallam7/filament_blog/assets/111317503/c7ea889e-ac65-43f1-ba0f-5b40fbc11380)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+![Screenshot 2023-12-25 230129](https://github.com/Ahmedatefsallam7/filament_blog/assets/111317503/4184b4aa-68bb-4e7e-a46a-57799481f2cb)
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
