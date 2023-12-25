@@ -1,18 +1,19 @@
-##Laravel Filament Blog
+#Laravel Filament Blog
 
 #Laravel Filament Blog is a simple web application built with Laravel and Filament, livewire, allowing content authors to create posts, users to make comments on posts, and visitors to view posts and comments.
 
-##Features
+#Features
 Post Management: Content authors can create, edit, and delete posts.
 Comment System: Users can add comments to posts.
 View Posts: Visitors can browse through posts and read comments.
+Search Functionality: you can search with any word you need.
 
-##Installation
+#Installation
 1-Clone the repository:git clone https://github.com/Ahmedatefsallam7/filament_blog
 2-Navigate to the project directory: cd filament-blog
 
 
-##Usage
+#Usage
 
 #Content Authors
 1- Log in with your credentials.
